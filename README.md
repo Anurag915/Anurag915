@@ -1,5 +1,5 @@
 <img src="github_banner.png" alt="GitHub Banner" width="100%" />
-![Banner](https://www.canva.com/design/DAGe-Dt0Vds/vyHpFCrUYGdWnzzYeXaFAw/edit?utm_content=DAGe-Dt0Vds&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 
 # Hi there! 👋 I'm Anurag Prajapati 🚀  
 

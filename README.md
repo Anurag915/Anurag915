@@ -112,7 +112,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anurag915/Anurag915/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Anurag915/Anurag915/output/github-snake.svg" />
 </picture>
-
+<!-- 
 ### 🐍 LeetCode Streak Snake
-![LeetCode Streak](https://raw.githubusercontent.com/Anurag915/Anurag915/output/github-snake.svg)
+![LeetCode Streak](https://raw.githubusercontent.com/Anurag915/Anurag915/output/github-snake.svg) -->
 

@@ -35,13 +35,11 @@
 
  
   <a href="https://leetcode.com/u/anurag1cr/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=000000&logoColor=FFA116&labelColor=&style=for-the-badge
-    "
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=000000&logoColor=FFA116&labelColor=&style=for-the-badge"
      height="35" alt="discord logo"  />
   </a>
    <a href="https://www.geeksforgeeks.org/user/prajapatiaa8js/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=000000&logoColor=2F8D46&labelColor=&style=for-the-badge
-    " height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=000000&logoColor=2F8D46&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 
   </a>
   <a href="https://discord.com/channels/anuragprajapati_09" target="_blank">

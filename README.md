@@ -1,4 +1,10 @@
-<h2 align="left">Hi 👋! My name is Anurag and I'm Passionate FullStack Web Developer</h2>
+# Hi there! 👋 I'm Anurag Prajapati 🚀  
+
+💻 **Aspiring Software Developer** | MERN & Java Full Stack  
+⚡ **Passionate about Problem-Solving & DSA** (LeetCode addict 😆)  
+📚 Always learning & building cool projects!  
+
+
 
 ###
 

@@ -16,11 +16,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anurag915&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+<!-- ###
 
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXZiaGVyZW5ibTh5bmZ3cGxqZ2g3OTVlazg0ZjV4eG5neWpkNWx4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif"  />
 
-###
+### -->
 
 <!-- <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />

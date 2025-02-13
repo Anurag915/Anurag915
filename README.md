@@ -91,7 +91,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Anurag915/Anurag915/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/Anurag915/Anurag915/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 

@@ -33,8 +33,9 @@
 
 <div align="left">
 
-    <a href="https://leetcode.com/u/anurag1cr/" target="_blank">
+  <a href="https://www.geeksforgeeks.org/user/prajapatiaa8js/" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" height="35" alt="discord logo"  />
+
   </a>
     <a href="https://leetcode.com/u/anurag1cr/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge"
@@ -43,9 +44,7 @@
   <a href="https://discord.com/channels/anuragprajapati_09" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <!-- <a href="anuragprajapati02005@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a> -->
+
   <a href="https://www.linkedin.com/in/anurag-prajapati-026918268/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -108,9 +107,9 @@
 </div>
 
 ###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anurag915/Anurag915/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anurag915/Anurag915/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Anurag915/Anurag915/output/github-snake.svg" />
 </picture>
-

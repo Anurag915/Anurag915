@@ -2,28 +2,27 @@ name: Generate LeetCode Snake Contribution
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Runs daily
+  workflow_dispatch:  # Allows manual triggering
 
 jobs:
-  build:
+  update-streak:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake Animation
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: Anurag915
-          outputs: |
-            assets/github-snake.svg
-            assets/github-snake-dark.svg
+      - name: Fetch LeetCode Streak Data
+        run: |
+          curl -X POST https://leetcode.com/graphql/ \
+          -H "Content-Type: application/json" \
+          --data '{"query":"query { matchedUser(username: \"anurag1cr\") { submitStatsGlobal { streakCounter } } }"}' \
+          | jq '.data.matchedUser.submitStatsGlobal.streakCounter' > streak.txt
 
-      - name: Commit & Push
+      - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add assets/github-snake.svg assets/github-snake-dark.svg
-          git commit -m "Updated snake contribution graph"
+          git add streak.txt
+          git commit -m "Updated LeetCode streak"
           git push

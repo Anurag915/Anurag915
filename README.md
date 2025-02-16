@@ -111,23 +111,17 @@
 
 ###
 
-<!-- <img src="https://raw.githubusercontent.com/Anurag915/Anurag915/output/snake.svg" alt="Snake animation" /> -->
 
-<!-- ### -->
+## 📫 Get in Touch
+- **Email:** anuragprajapati02005@gmail.com
+- **LinkedIn:** [Anurag915](https://www.linkedin.com/in/anurag-prajapati-026918268)
 
-<!-- <div align="center">
-  <img src="https://profile-counter.glitch.me/Anurag915/count.svg?"  />
-</div> -->
+Feel free to reach out if you want to collaborate on a project, have a question, or just want to chat about tech!
 
-<!-- ### -->
-<!-- ![GitHub Snake](https://raw.githubusercontent.com/Anurag915/output/github-snake.svg) -->
+Thanks for visiting my profile, and happy coding! 🚀
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anurag915/Anurag915/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anurag915/Anurag915/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Anurag915/Anurag915/output/github-snake.svg" />
 </picture>
-
-<!-- 
-### 🐍 LeetCode Streak Snake
-![LeetCode Streak](https://raw.githubusercontent.com/Anurag915/Anurag915/output/github-snake.svg)

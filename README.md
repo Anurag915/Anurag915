@@ -39,7 +39,7 @@
 </div> -->
 
 ###
-# 💻 Tech Stack:
+
 <div align="left">
 
  
@@ -59,7 +59,12 @@
 </div>
 
 ###
-
+## 🛠️ Technologies & Tools
+- **Languages:** Python, JavaScript, TypeScript, Java, C++
+- **Web Development:** HTML, CSS, React, Node.js, Express.js
+- **Databases:** MySQL, MongoDB, PostgreSQL
+- **DevOps:** Docker, Kubernetes, Jenkins
+- **Other Tools:** Git, GitHub, VSCode, JIRA
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />

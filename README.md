@@ -58,6 +58,14 @@
   
 </div>
 
+## 🙋‍♂️ About Me
+- 🎓 B.Tech in Computer Science & Engineering at IIITDM Kurnool (2022–2026)
+- 💡 Enjoy building **scalable web applications** and solving real-world problems with technology.  
+- 🏆 Active on **LeetCode** and **GeeksforGeeks**, continuously improving my problem-solving skills.  
+- 🎯 Goal: Become a **skilled software engineer** capable of delivering end-to-end solutions.  
+- ⚡ Fun fact: I love debugging more than writing new code — because that’s where the real magic happens!  
+---
+
 ###
 ## 🛠️ Technologies & Tools
 - **Languages:** Python, JavaScript, TypeScript, Java, C++
@@ -68,11 +76,9 @@
 ###
 
 
-
-
 ## 🚀 Projects
 
-### 📌 [ByteTalk](https://github.com/Anurag915/ByteTalk)
+### 📌 [ByteTalk](https://github.com/Anurag915/ByteTalk) [LiveDemo](https://byte-talk-frontend.vercel.app/login)
 A real-time chat application with secure authentication, media sharing, and responsive UI.  
 **Tech Stack:** MERN (MongoDB, Express.js, React.js, Node.js), Socket.io, Tailwind CSS, JWT  
 **Features:**  
@@ -83,7 +89,7 @@ A real-time chat application with secure authentication, media sharing, and resp
 
 ---
 
-### 📌 [HireMitra](https://github.com/Anurag915/HireMitra)
+### 📌 [HireMitra](https://github.com/Anurag915/HireMitra) [LiveDemo](https://hire-mitra3-0.vercel.app/)
 A job application and hiring management platform for recruiters and applicants.  
 **Tech Stack:** React.js, Supabase, Clerk, Tailwind CSS  
 **Features:**  
@@ -94,7 +100,7 @@ A job application and hiring management platform for recruiters and applicants.
 
 ---
 
-### 📌 [Sahyogini Management System](https://github.com/Anurag915/Sahyogini-Volunteer-Management-System)
+### 📌 [Sahyogini Management System](https://github.com/Anurag915/Sahyogini-Volunteer-Management-System) [LiveDemo](https://sahyogini-volunteer-management-system.vercel.app/)
 A management system for organizing, tracking, and managing data for Sahyogini programs.  
 **Tech Stack:** MERN Stack, Bootstrap, MongoDB Atlas  
 **Features:**  

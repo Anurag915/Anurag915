@@ -112,6 +112,44 @@
 ###
 
 
+
+
+## 🚀 Projects
+
+### 📌 [ByteTalk](https://github.com/Anurag915/ByteTalk)
+A real-time chat application with secure authentication, media sharing, and responsive UI.  
+**Tech Stack:** MERN (MongoDB, Express.js, React.js, Node.js), Socket.io, Tailwind CSS, JWT  
+**Features:**  
+- Real-time messaging with WebSocket  
+- User authentication & authorization (JWT)  
+- Media upload & sharing  
+- Online/offline status tracking  
+
+---
+
+### 📌 [HireMitra](https://github.com/Anurag915/HireMitra)
+A job application and hiring management platform for recruiters and applicants.  
+**Tech Stack:** React.js, Supabase, Clerk, Tailwind CSS  
+**Features:**  
+- Job posting & application management  
+- Secure login/signup using Clerk authentication  
+- Real-time updates using Supabase  
+- Responsive design for mobile & desktop  
+
+---
+
+### 📌 [Sahyogini Management System](https://github.com/Anurag915/Sahyogini-Volunteer-Management-System)
+A management system for organizing, tracking, and managing data for Sahyogini programs.  
+**Tech Stack:** MERN Stack, Bootstrap, MongoDB Atlas  
+**Features:**  
+- Centralized data storage & retrieval  
+- CRUD operations for managing records  
+- Role-based access for admin and users  
+- Data visualization for reports  
+
+---
+
+
 ## 📫 Get in Touch
 - **Email:** anuragprajapati02005@gmail.com
 - **LinkedIn:** [Anurag915](https://www.linkedin.com/in/anurag-prajapati-026918268)

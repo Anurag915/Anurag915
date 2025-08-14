@@ -85,7 +85,7 @@ A job application and hiring management platform for recruiters and applicants.
 
 ### 📌 [Sahyogini Management System](https://github.com/Anurag915/Sahyogini-Volunteer-Management-System) | [🌐 Live Demo](https://sahyogini-volunteer-management-system.vercel.app/)
 A management system for organizing, tracking, and managing data for Sahyogini programs.  
-**Tech Stack:** MERN Stack, Bootstrap, MongoDB Atlas  
+**Tech Stack:** React.js, Node.js, Express.js, Tailwind CSS, Supabase
 **Features:**  
 - Centralized data storage & retrieval  
 - CRUD operations for managing records  

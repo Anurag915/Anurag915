@@ -40,23 +40,6 @@
 
 ###
 
-<div align="left">
-
- 
-  <a href="https://leetcode.com/u/anurag1cr/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge"
-     height="35" alt="leetcode logo"  />
-  </a>
-   <a href="https://www.geeksforgeeks.org/user/prajapatiaa8js/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=2F8D46&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GFG logo"  />
-
-  </a>
-
-  <a href="https://www.linkedin.com/in/anurag-prajapati-026918268/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  
-</div>
 
 ## 🙋‍♂️ About Me
 - 🎓 B.Tech in Computer Science & Engineering at IIITDM Kurnool (2022–2026)
@@ -111,6 +94,23 @@ A management system for organizing, tracking, and managing data for Sahyogini pr
 
 ---
 
+<div align="left">
+
+ 
+  <a href="https://leetcode.com/u/anurag1cr/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge"
+     height="35" alt="leetcode logo"  />
+  </a>
+   <a href="https://www.geeksforgeeks.org/user/prajapatiaa8js/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=2F8D46&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GFG logo"  />
+
+  </a>
+
+  <a href="https://www.linkedin.com/in/anurag-prajapati-026918268/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  
+</div> 
 
 ## 📫 Get in Touch
 - **Email:** anuragprajapati02005@gmail.com

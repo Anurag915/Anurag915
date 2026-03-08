@@ -62,15 +62,46 @@
 ## 🚀 Projects
 
 ### 📌 [ByteTalk](https://github.com/Anurag915/ByteTalk) | [🌐 Live Demo](https://byte-talk-frontend.vercel.app/login)
-A real-time chat application with secure authentication, media sharing, and responsive UI.  
-**Tech Stack:** MERN (MongoDB, Express.js, React.js, Node.js), Socket.io, Tailwind CSS, JWT  
-**Features:**  
-- Real-time messaging with WebSocket  
-- User authentication & authorization (JWT)  
-- Media upload & sharing  
-- Online/offline status tracking  
+ByteTalk is a sleek, modern, and AI-powered real-time messaging platform that enables users to connect, collaborate, and communicate seamlessly. It combines lightning-fast messaging with intelligent AI features to deliver a next-generation chat experience through a beautifully responsive UI.
 
----
+Features
+
+🔐 User Authentication
+Secure login, registration, and session management using JWT-based authentication.
+
+⚡ Real-Time Messaging
+Instant bidirectional communication powered by Socket.IO and WebSockets.
+
+🖼 Media Sharing
+Upload and send images and voice messages directly within chat conversations.
+
+💬 Advanced Messaging Features
+Support for message reactions, edit/delete messages, read receipts, typing indicators, and pinned messages for a richer chat experience.
+
+🤖 AI Smart Reply
+AI-powered quick reply suggestions generated using Gemini API, allowing users to respond faster with context-aware message suggestions.
+
+🧠 AI Conversation Summarization
+Generate concise summaries of long conversations, helping users quickly understand key discussion points.
+
+📌 AI Message Analysis
+Analyze messages using AI to extract tasks, deadlines, and meetings, turning conversations into actionable insights.
+
+🔍 User Search
+Quickly find and start conversations with users through instant search functionality.
+
+🛠 Profile Customization
+Update profile information including display name, avatar, and account details.
+
+📱 Responsive UI
+Fully responsive design ensuring a smooth experience across desktop, tablet, and mobile devices.
+
+**Tech Stack
+Frontend: React.js, Tailwind CSS
+Backend: Node.js, Express.js
+Database: MongoDB
+Real-Time Communication: Socket.IO, WebSockets
+AI Integration: Gemini API (LLM)
 
 ### 📌 [HireMitra](https://github.com/Anurag915/HireMitra) | [🌐 Live Demo](https://hire-mitra3-0.vercel.app/)
 A job application and hiring management platform for recruiters and applicants.  

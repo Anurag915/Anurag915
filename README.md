@@ -83,6 +83,10 @@ Features
 
 **🔍 User Search**: Quickly find and start conversations with users through instant search functionality.
 
+**🏭 Enterprise Architecture:
+     **RabbitMQ**: Robust background job queue for async processing of messages and images.
+     **Dockerized**: Fully containerized backend and frontend environments for seamless deployments.
+
 **🛠 Profile Customization**: Update profile information including display name, avatar, and account details.
 
 **📱 Responsive UI**: Fully responsive design ensuring a smooth experience across desktop, tablet, and mobile devices.

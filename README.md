@@ -3,8 +3,8 @@
 </p>
 # Hi there! 👋 I'm Anurag Prajapati 🚀  
 
-💻 **Software Developer** | Full Stack Developer & AI Developer 
-⚡ **Passionate about Problem-Solving & DSA** (LeetCode addict 😆)  
+💻 **Software Developer** | Full Stack Developer & AI Developer
+⚡ **Passionate about Problem-Solving & DSA** (LeetCode addict 😆) 
 📚 Always learning & building cool projects!  
 
 

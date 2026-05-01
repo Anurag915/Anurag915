@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="github-banner.jpg" alt="GitHub Banner" width="1000" height="260"/>
+  <img src="github-banner.jpg" alt="GitHub Banner" width="900" height="260"/>
 </p>
 # Hi there! 👋 I'm Anurag Prajapati 🚀  
 
-💻 **Software Developer** | MERN & Java Full Stack  
+💻 **Software Developer** | Full Stack Developer & AI Developer 
 ⚡ **Passionate about Problem-Solving & DSA** (LeetCode addict 😆)  
 📚 Always learning & building cool projects!  
 
@@ -51,12 +51,12 @@
 
 ###
 ## 🛠️ Technologies & Tools
-- **Languages**: Java, JavaScript, TypeScript, Python, C++, C, SQL
+- **Languages**: JavaScript, TypeScript, Python, Java, C++, SQL
 - **Frontend**: React.js, Next.js, HTML5, CSS3, Tailwind CSS, ES6, Responsive Design
 - **Backend**: Node.js, Express.js, FastAPI, Spring Boot, RESTful APIs, Microservices
 - **Databases**: MongoDB, PostgreSQL, MySQL, Oracle
 - **Cloud & DevOps**: Docker, CI/CD, Linux, AWS Basics
-- **Tools & Platforms**: Git, GitHub, Postman, Supabase, Clerk Auth, DBeaver
+- **Tools & Platforms**: Git, GitHub, Postman, Supabase, Clerk Auth
 ###
 
 
@@ -65,19 +65,11 @@
 ### 📌 [CareerForge](https://github.com/Anurag915/CareerForge)
 CareerForge is a production-grade, AI-powered resume analysis and recruitment intelligence platform designed to bridge the gap between candidates and hiring managers. It leverages Local LLMs, RAG (Retrieval-Augmented Generation), and a deterministic ATS scoring engine to deliver professional-grade resume optimization, comparison, and insights through a secure and scalable SaaS architecture.
 
-Features
-
-**🔐 User Authentication & RBAC**: Secure login and role-based access control using JWT and Bcrypt, supporting both Candidates and Hiring Managers.
-
 **📊 Resume Intelligence Analysis**: Deep analysis of resumes against job descriptions to identify strengths, gaps, and optimization opportunities.
-
-**🎯 Deterministic ATS Scoring**: Transparent weighted scoring system (60% Skills, 25% Experience, 15% Projects) that mirrors real-world ATS logic.
 
 **🧪 Resume A/B Testing**: Upload multiple resume versions and identify the best-performing one for a target role.
 
 **🤖 AI Career Chat (RAG-based)**: Interactive chat system powered by FAISS and local LLMs to answer contextual queries about resume performance.
-
-**🗂 Resume Vault**: Secure storage and management of multiple resumes and professional documents.
 
 **📈 Candidate Comparison Dashboard**: Side-by-side comparison of candidates against a single job description for efficient hiring decisions.
 
@@ -85,19 +77,11 @@ Features
 
 **🏆 Smart Shortlisting**: Deterministic ranking system to filter and identify Top N candidates based on technical match.
 
-**🧠 AI Insights & Summarization**: Generate AI-powered summaries and comparative insights for high-volume candidate screening.
-
-**🛡 Multi-Tenant Architecture**: Ensures strict user-level data isolation for secure and scalable SaaS deployment.
-
-**🔒 Local AI Privacy**: Runs on local LLMs (Ollama) ensuring complete data privacy without external API dependency.
-
-**📱 Responsive UI**: Modern, responsive interface with smooth animations for seamless user experience.
-
----
+**💼 Recruitment Intelligence**: Batch resume processing, candidate comparison, and smart shortlisting for efficient hiring decisions.  
 
 **Tech Stack**
 
-**Frontend**: React.js, Vite, Tailwind CSS, Framer Motion, Lucide-React  
+**Frontend**: React.js, Tailwind CSS, Framer Motion, Lucide-React  
 **Backend**: Python, Flask (REST API)  
 **Database**: SQLite  
 **Vector Search**: FAISS  
@@ -136,10 +120,15 @@ Features
 **📱 Responsive UI**: Fully responsive design ensuring a smooth experience across desktop, tablet, and mobile devices.
 
 **Tech Stack**
+
 **Frontend**: React.js, Tailwind CSS
+
 **Backend**: Node.js, Express.js
+
 **Database**: MongoDB
+
 **Real-Time Communication**: Socket.IO, WebSockets
+
 **AI Integration**: Gemini API (LLM)
 
 ### 📌 [HireMitra](https://github.com/Anurag915/HireMitra) | [🌐 Live Demo](https://hire-mitra3-0.vercel.app/)

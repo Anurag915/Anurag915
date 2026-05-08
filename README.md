@@ -4,7 +4,7 @@
 
 I build scalable web applications and AI-powered systems focused on solving real-world problems. My work combines **backend engineering, system design, and applied AI (RAG, LLMs)** to deliver production-ready solutions.
 
-###
+---
 
 ## 🧑‍💻 About Me
 - 🎓 B.Tech in Computer Science & Engineering — IIITDM Kurnool (2022–2026)  
@@ -70,6 +70,7 @@ CareerForge is a production-grade, AI-powered resume analysis and recruitment in
 **LLM**: Ollama (Llama 3 / Phi-3)  
 **Security**: JWT Authentication, Bcrypt Password Hashing  
 
+---
 
 ### 📌 [ByteTalk](https://github.com/Anurag915/ByteTalk) | [🌐 Live Demo](https://byte-talk-frontend.vercel.app/login)
 ByteTalk is a sleek, modern, and AI-powered real-time messaging platform that enables users to connect, collaborate, and communicate seamlessly. It combines lightning-fast messaging with intelligent AI features to deliver a next-generation chat experience through a beautifully responsive UI.
@@ -112,6 +113,7 @@ Features
 **AI Integration**: Gemini API (LLM)
 **Containerization**: Docker & Docker Compose
 
+---
 
 ### 📌 [HireMitra](https://github.com/Anurag915/HireMitra) | [🌐 Live Demo](https://hire-mitra3-0.vercel.app/)
 A job application and hiring management platform for recruiters and applicants.  

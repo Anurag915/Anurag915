@@ -1,65 +1,43 @@
 <p align="center">
   <img src="github-banner.jpg" alt="GitHub Banner" width="900" height="260"/>
 </p>
-# Hi there! 👋 I'm Anurag Prajapati 🚀  
+# Hi, I'm Anurag Prajapati 👋  
 
-💻 **Software Developer** | Full Stack Developer & AI Developer
+💻 **Software Developer | Full-Stack & AI Enthusiast**  
 
-⚡ **Passionate about Problem-Solving & DSA** (LeetCode addict 😆) 
-
-📚 Always learning & building cool projects!  
-
-
+I build scalable web applications and AI-powered systems focused on solving real-world problems. My work combines **backend engineering, system design, and applied AI (RAG, LLMs)** to deliver production-ready solutions.
 
 ###
 
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anurag915&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anurag915&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div> -->
+## 🧑‍💻 About Me
+- 🎓 B.Tech in Computer Science & Engineering — IIITDM Kurnool (2022–2026)  
+- ⚙️ Strong focus on **backend development, scalable systems, and AI integration**  
+- 🧠 Active problem solver on **LeetCode & GeeksforGeeks**  
+- 🎯 Interested in **SDE roles (Backend / Full Stack / AI-driven systems)**  
 
-<!-- ###
-
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXZiaGVyZW5ibTh5bmZ3cGxqZ2g3OTVlazg0ZjV4eG5neWpkNWx4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif"  />
-
-### -->
-
-<!-- <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div> -->
-
-###
-
-
-## 🙋‍♂️ About Me
-- 🎓 B.Tech in Computer Science & Engineering at IIITDM Kurnool (2022–2026)
-- 💡 Enjoy building **scalable web applications** and solving real-world problems with technology.  
-- 🏆 Active on **LeetCode** and **GeeksforGeeks**, continuously improving my problem-solving skills.  
-- 🎯 Goal: Become a **skilled software engineer** capable of delivering end-to-end solutions.  
-- ⚡ Fun fact: I love debugging more than writing new code — because that’s where the real magic happens!  
 ---
 
-###
-## 🛠️ Technologies & Tools
-- **Languages**: JavaScript, TypeScript, Python, Java, C++, SQL
-- **Frontend**: React.js, Next.js, HTML5, CSS3, Tailwind CSS, ES6, Responsive Design
-- **Backend**: Node.js, Express.js, FastAPI, Spring Boot, RESTful APIs, Microservices
-- **Databases**: MongoDB, PostgreSQL, MySQL, Oracle
-- **Cloud & DevOps**: Docker, CI/CD, Linux, AWS Basics
-- **Tools & Platforms**: Git, GitHub, Postman, Supabase, Clerk Auth
-###
+## 🛠️ Tech Stack
+
+**Languages**  
+JavaScript, TypeScript, Python, Java, C++, SQL  
+
+**Frontend**  
+React.js, Next.js, Tailwind CSS  
+
+**Backend**  
+Node.js, Express.js, FastAPI, Java, Spring Boot
+
+**Databases**  
+MongoDB, PostgreSQL, MySQL
+
+**Tools & Technologies**  
+Docker, Git, Postman, Supabase, REST APIs, WebSockets, AWS
+
+**AI/ML**  
+RAG, FAISS, Sentence Transformers, LLM APIs, Pytorch, Numpy, Pandas, Hugging Face
+
+---
 
 
 ## 🚀 Projects
@@ -88,6 +66,10 @@ CareerForge is a production-grade, AI-powered resume analysis and recruitment in
 **Database**: SQLite  
 **Vector Search**: FAISS  
 **AI/ML**: Sentence-Transformers (all-MiniLM-L6-v2)  
+**Task Queue**: Celery (Distributed Processing)
+**Message Broker**: Redis (High-speed Event Bus)
+**Server Engine**: Eventlet (High-concurrency support)
+**Real-time**: Socket.IO-Client
 **LLM**: Ollama (Llama 3 / Phi-3)  
 **Security**: JWT Authentication, Bcrypt Password Hashing  
 
@@ -124,14 +106,15 @@ Features
 **Tech Stack**
 
 **Frontend**: React.js, Tailwind CSS
-
 **Backend**: Node.js, Express.js
-
 **Database**: MongoDB
-
 **Real-Time Communication**: Socket.IO, WebSockets
-
+**Message Broker**: RabbitMQ
+**Authentication**: Clerk SDK
+**Media Storage**: Cloudinary (Image & Audio)
 **AI Integration**: Gemini API (LLM)
+**Containerization**: Docker & Docker Compose
+
 
 ### 📌 [HireMitra](https://github.com/Anurag915/HireMitra) | [🌐 Live Demo](https://hire-mitra3-0.vercel.app/)
 A job application and hiring management platform for recruiters and applicants.  
@@ -141,6 +124,8 @@ A job application and hiring management platform for recruiters and applicants.
 - Secure login/signup using Clerk authentication  
 - Real-time updates using Supabase  
 - Responsive design for mobile & desktop  
+
+**Tech:** React.js, Supabase, Clerk  
 
 ---
 
@@ -152,6 +137,16 @@ A management system for organizing, tracking, and managing data for Sahyogini pr
 - CRUD operations for managing records  
 - Role-based access for admin and users  
 - Data visualization for reports  
+
+**Tech:** MERN Stack, Supabase  
+
+---
+
+## 📈 What I Bring
+- Strong understanding of **system design fundamentals**  
+- Experience building **end-to-end production-level applications**  
+- Ability to integrate **AI into real-world products**  
+- Solid foundation in **DSA and problem-solving**  
 
 ---
 
@@ -177,9 +172,10 @@ A management system for organizing, tracking, and managing data for Sahyogini pr
 - **Email:** anuragprajapati02005@gmail.com
 - **LinkedIn:** [Anurag915](https://www.linkedin.com/in/anurag-prajapati-026918268)
 
+⭐ *Open to internships and full-time opportunities in Software Development/Full Stack Development, AI Developer*
+
 Feel free to reach out if you want to collaborate on a project, have a question, or just want to chat about tech!
 
-Thanks for visiting my profile, and happy coding! 🚀
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anurag915/Anurag915/output/github-snake-dark.svg" />

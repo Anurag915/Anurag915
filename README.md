@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="github-banner.jpg" alt="GitHub Banner" width="900" height="260"/>
-</p>
 # Hi, I'm Anurag Prajapati 👋  
 
 💻 **Software Developer | Full-Stack & AI Enthusiast**  

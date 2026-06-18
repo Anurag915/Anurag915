@@ -1,6 +1,6 @@
 # Hi, I'm Anurag Prajapati 👋  
 
-💻 **Software Developer | Full-Stack & AI Enthusiast**  
+💻 **Software Engineer | Full-Stack AI Developer**  
 
 I build scalable web applications and AI-powered systems focused on solving real-world problems. My work combines **backend engineering, system design, and applied AI (RAG, LLMs)** to deliver production-ready solutions.
 
@@ -39,7 +39,7 @@ RAG, FAISS, Sentence Transformers, LLM APIs, Pytorch, Numpy, Pandas, Hugging Fac
 
 ## 🚀 Projects
 
-### 📌 [CareerForge](https://github.com/Anurag915/CareerForge)
+### 📌 [CareerForge](https://github.com/Anurag915/CareerForge) | [🌐 Live Demo](https://careerforgeresume.vercel.app/)
 CareerForge is a production-grade, AI-powered resume analysis and recruitment intelligence platform designed to bridge the gap between candidates and hiring managers. It leverages Local LLMs, RAG (Retrieval-Augmented Generation), and a deterministic ATS scoring engine to deliver professional-grade resume optimization, comparison, and insights through a secure and scalable SaaS architecture.
 
 **📊 Resume Intelligence Analysis**: Deep analysis of resumes against job descriptions to identify strengths, gaps, and optimization opportunities.

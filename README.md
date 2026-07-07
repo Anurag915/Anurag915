@@ -39,6 +39,34 @@ RAG, FAISS, Sentence Transformers, LLM APIs, Pytorch, Numpy, Pandas, Hugging Fac
 
 ## 🚀 Projects
 
+### 📌 [AI Agriculture Decision Support System](https://github.com/Anurag915/AI-Agriculture-Decision-Support-System) | [🌐 Live Demo](https://ai-agriculture-decision-support-sys.vercel.app/)
+
+An enterprise-grade AI Agriculture Decision Support System designed to empower farmers and stakeholders with actionable, data-driven insights. Utilizing advanced machine learning models, the system offers precise crop recommendations, future price forecasting, and production volume predictions tailored to specific regions, seasons, and crop types. The platform features a premium, responsive UI for business intelligence and analytics.
+
+
+## Features
+- **Crop Recommendation**: AI-powered suggestions for the most profitable crops based on geographical location (State, District) and season. Provides risk analysis, expected yield, and confidence metrics.
+- **Price Forecast**: Predicts future agricultural market prices using historical data and AI models, complete with interactive trend visualizations.
+- **Production Forecast**: Forecasts crop yields over multi-year periods based on cultivated area, with comprehensive area charts and growth metrics.
+- **Analytics Dashboard**: A centralized business intelligence dashboard aggregating insights, top-performing crops, revenue comparisons, risk distributions, and model confidence metrics.
+- **Data Export**: Seamless CSV export functionality for offline data analysis.
+- 
+## Tech Stack
+### Frontend
+- **Framework**: React 19, Vite
+- **Styling**: Tailwind CSS
+- **Routing**: React Router
+- **State & Forms**: React Hook Form
+- **Animations**: Framer Motion
+- **Visualizations**: Recharts
+- **API Client**: Axios
+
+### Backend
+- **Language**: Python 3.14+
+- **Machine Learning**: Pandas, Scikit-Learn, CatBoost
+- **API**: Flask (or FastAPI)
+---
+
 ### 📌 [CareerForge](https://github.com/Anurag915/CareerForge) | [🌐 Live Demo](https://careerforgeresume.vercel.app/)
 CareerForge is a production-grade, AI-powered resume analysis and recruitment intelligence platform designed to bridge the gap between candidates and hiring managers. It leverages Local LLMs, RAG (Retrieval-Augmented Generation), and a deterministic ATS scoring engine to deliver professional-grade resume optimization, comparison, and insights through a secure and scalable SaaS architecture.
 
@@ -112,32 +140,6 @@ Features
 **Media Storage**: Cloudinary (Image & Audio)
 **AI Integration**: Gemini API (LLM)
 **Containerization**: Docker & Docker Compose
-
----
-
-### 📌 [HireMitra](https://github.com/Anurag915/HireMitra) | [🌐 Live Demo](https://hire-mitra3-0.vercel.app/)
-A job application and hiring management platform for recruiters and applicants.  
-**Tech Stack:** React.js, Supabase, Clerk, Tailwind CSS  
-**Features:**  
-- Job posting & application management  
-- Secure login/signup using Clerk authentication  
-- Real-time updates using Supabase  
-- Responsive design for mobile & desktop  
-
-**Tech:** React.js, Supabase, Clerk  
-
----
-
-### 📌 [Sahyogini Management System](https://github.com/Anurag915/Sahyogini-Volunteer-Management-System) | [🌐 Live Demo](https://sahyogini-volunteer-management-system.vercel.app/)
-A management system for organizing, tracking, and managing data for Sahyogini programs.  
-**Tech Stack:** React.js, Node.js, Express.js, Supabase, Tailwind CSS  
-**Features:**  
-- Centralized data storage & retrieval  
-- CRUD operations for managing records  
-- Role-based access for admin and users  
-- Data visualization for reports  
-
-**Tech:** MERN Stack, Supabase  
 
 ---
 

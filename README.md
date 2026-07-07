@@ -18,21 +18,16 @@ I build scalable web applications and AI-powered systems focused on solving real
 
 **Languages**  
 JavaScript, TypeScript, Python, Java, C++, SQL  
-
 **Frontend**  
-React.js, Next.js, Tailwind CSS  
-
+React.js, Next.js, Shadcn UI, Material UI, Tailwind CSS 
 **Backend**  
-Node.js, Express.js, FastAPI, Java, Spring Boot
-
-**Databases**  
+Node.js, Express.js, FastAPI, Flask, Java, Spring Boot
+**Databases**
 MongoDB, PostgreSQL, MySQL
-
 **Tools & Technologies**  
 Docker, Git, Postman, Supabase, REST APIs, WebSockets, AWS
-
 **AI/ML**  
-RAG, FAISS, Sentence Transformers, LLM APIs, Pytorch, Numpy, Pandas, Hugging Face
+Machine Learning, Deep Learning, Scikit-learn, RAG, FAISS, Sentence Transformers, LLM APIs, Pytorch, Numpy, Pandas, Hugging Face
 
 ---
 
@@ -71,13 +66,13 @@ An enterprise-grade AI Agriculture Decision Support System designed to empower f
 CareerForge is a production-grade, AI-powered resume analysis and recruitment intelligence platform designed to bridge the gap between candidates and hiring managers. It leverages Local LLMs, RAG (Retrieval-Augmented Generation), and a deterministic ATS scoring engine to deliver professional-grade resume optimization, comparison, and insights through a secure and scalable SaaS architecture.
 
 ## Features
-**📊 Resume Intelligence Analysis**: Deep analysis of resumes against job descriptions to identify strengths, gaps, and optimization opportunities.
-**🧪 Resume A/B Testing**: Upload multiple resume versions and identify the best-performing one for a target role.
-**🤖 AI Career Chat (RAG-based)**: Interactive chat system powered by FAISS and local LLMs to answer contextual queries about resume performance.
-**📈 Candidate Comparison Dashboard**: Side-by-side comparison of candidates against a single job description for efficient hiring decisions.
-**⚡ Batch Resume Processing**: Upload and evaluate multiple resumes instantly without cluttering the database.
-**🏆 Smart Shortlisting**: Deterministic ranking system to filter and identify Top N candidates based on technical match.
-**💼 Recruitment Intelligence**: Batch resume processing, candidate comparison, and smart shortlisting for efficient hiring decisions.  
+- **📊 Resume Intelligence Analysis**: Deep analysis of resumes against job descriptions to identify strengths, gaps, and optimization opportunities.
+- **🧪 Resume A/B Testing**: Upload multiple resume versions and identify the best-performing one for a target role.
+- **🤖 AI Career Chat (RAG-based)**: Interactive chat system powered by FAISS and local LLMs to answer contextual queries about resume performance.
+- **📈 Candidate Comparison Dashboard**: Side-by-side comparison of candidates against a single job description for efficient hiring decisions.
+- **⚡ Batch Resume Processing**: Upload and evaluate multiple resumes instantly without cluttering the database.
+- **🏆 Smart Shortlisting**: Deterministic ranking system to filter and identify Top N candidates based on technical match.
+- **💼 Recruitment Intelligence**: Batch resume processing, candidate comparison, and smart shortlisting for efficient hiring decisions.  
 
 ## Tech Stack
 **Frontend**: React.js, Tailwind CSS, Framer Motion, Lucide-React  
@@ -99,29 +94,19 @@ ByteTalk is a sleek, modern, and AI-powered real-time messaging platform that en
 
 ## Features
 
-**🔐 User Authentication**: Secure login, registration, and session management using JWT-based authentication.
-
-**⚡ Real-Time Messaging**: Instant bidirectional communication powered by Socket.IO and WebSockets.
-
-**🖼 Media Sharing**: Upload and send images and voice messages directly within chat conversations.
-
-**💬 Advanced Messaging Features**: Support for message reactions, edit/delete messages, read receipts, typing indicators, and pinned messages for a richer chat experience.
-
-**🤖 AI Smart Reply**: AI-powered quick reply suggestions generated using Gemini API, allowing users to respond faster with context-aware message suggestions.
-
-**🧠 AI Conversation Summarization**: Generate concise summaries of long conversations, helping users quickly understand key discussion points.
-
-**📌 AI Message Analysis**: Analyze messages using AI to extract tasks, deadlines, and meetings, turning conversations into actionable insights.
-
-**🔍 User Search**: Quickly find and start conversations with users through instant search functionality.
-
-**🏭 Enterprise Architecture:
+- **🔐 User Authentication**: Secure login, registration, and session management using JWT-based authentication.
+- **⚡ Real-Time Messaging**: Instant bidirectional communication powered by Socket.IO and WebSockets.
+- **🖼 Media Sharing**: Upload and send images and voice messages directly within chat conversations.
+- **💬 Advanced Messaging Features**: Support for message reactions, edit/delete messages, read receipts, typing indicators, and pinned messages for a richer chat experience.
+- **🤖 AI Smart Reply**: AI-powered quick reply suggestions generated using Gemini API, allowing users to respond faster with context-aware message suggestions.
+- **🧠 AI Conversation Summarization**: Generate concise summaries of long conversations, helping users quickly understand key discussion points.
+- **📌 AI Message Analysis**: Analyze messages using AI to extract tasks, deadlines, and meetings, turning conversations into actionable insights.
+- **🔍 User Search**: Quickly find and start conversations with users through instant search functionality.
+- **🏭 Enterprise Architecture:
      **RabbitMQ**: Robust background job queue for async processing of messages and images.
      **Dockerized**: Fully containerized backend and frontend environments for seamless deployments.
-
-**🛠 Profile Customization**: Update profile information including display name, avatar, and account details.
-
-**📱 Responsive UI**: Fully responsive design ensuring a smooth experience across desktop, tablet, and mobile devices.
+- **🛠 Profile Customization**: Update profile information including display name, avatar, and account details.
+- **📱 Responsive UI**: Fully responsive design ensuring a smooth experience across desktop, tablet, and mobile devices.
 
 ## Tech Stack
 

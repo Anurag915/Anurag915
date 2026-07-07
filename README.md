@@ -16,17 +16,17 @@ I build scalable web applications and AI-powered systems focused on solving real
 
 ## 🛠️ Tech Stack
 
-**Languages**  
+- **Languages**  
 JavaScript, TypeScript, Python, Java, C++, SQL  
-**Frontend**  
+- **Frontend**  
 React.js, Next.js, Shadcn UI, Material UI, Tailwind CSS 
-**Backend**  
+- **Backend**  
 Node.js, Express.js, FastAPI, Flask, Java, Spring Boot
-**Databases**
+- **Databases**
 MongoDB, PostgreSQL, MySQL
-**Tools & Technologies**  
+- **Tools & Technologies**  
 Docker, Git, Postman, Supabase, REST APIs, WebSockets, AWS
-**AI/ML**  
+- **AI/ML**  
 Machine Learning, Deep Learning, Scikit-learn, RAG, FAISS, Sentence Transformers, LLM APIs, Pytorch, Numpy, Pandas, Hugging Face
 
 ---
@@ -75,17 +75,17 @@ CareerForge is a production-grade, AI-powered resume analysis and recruitment in
 - **💼 Recruitment Intelligence**: Batch resume processing, candidate comparison, and smart shortlisting for efficient hiring decisions.  
 
 ## Tech Stack
-**Frontend**: React.js, Tailwind CSS, Framer Motion, Lucide-React  
-**Backend**: Python, Flask (REST API)  
-**Database**: SQLite  
-**Vector Search**: FAISS  
-**AI/ML**: Sentence-Transformers (all-MiniLM-L6-v2)  
-**Task Queue**: Celery (Distributed Processing)
-**Message Broker**: Redis (High-speed Event Bus)
-**Server Engine**: Eventlet (High-concurrency support)
-**Real-time**: Socket.IO-Client
-**LLM**: Ollama (Llama 3 / Phi-3)  
-**Security**: JWT Authentication, Bcrypt Password Hashing  
+- **Frontend**: React.js, Tailwind CSS, Framer Motion, Lucide-React  
+- **Backend**: Python, Flask (REST API)  
+- **Database**: SQLite  
+- **Vector Search**: FAISS  
+- **AI/ML**: Sentence-Transformers (all-MiniLM-L6-v2)  
+- **Task Queue**: Celery (Distributed Processing)
+- **Message Broker**: Redis (High-speed Event Bus)
+- **Server Engine**: Eventlet (High-concurrency support)
+- **Real-time**: Socket.IO-Client
+- **LLM**: Ollama (Llama 3 / Phi-3)  
+- **Security**: JWT Authentication, Bcrypt Password Hashing  
 
 ---
 
@@ -110,15 +110,15 @@ ByteTalk is a sleek, modern, and AI-powered real-time messaging platform that en
 
 ## Tech Stack
 
-**Frontend**: React.js, Tailwind CSS
-**Backend**: Node.js, Express.js
-**Database**: MongoDB
-**Real-Time Communication**: Socket.IO, WebSockets
-**Message Broker**: RabbitMQ
-**Authentication**: Clerk SDK
-**Media Storage**: Cloudinary (Image & Audio)
-**AI Integration**: Gemini API (LLM)
-**Containerization**: Docker & Docker Compose
+- **Frontend**: React.js, Tailwind CSS
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Real-Time Communication**: Socket.IO, WebSockets
+- **Message Broker**: RabbitMQ
+- **Authentication**: Clerk SDK
+- **Media Storage**: Cloudinary (Image & Audio)
+- **AI Integration**: Gemini API (LLM)
+- **Containerization**: Docker & Docker Compose
 
 ---
 

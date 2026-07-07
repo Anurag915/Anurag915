@@ -70,22 +70,16 @@ An enterprise-grade AI Agriculture Decision Support System designed to empower f
 ### 📌 [CareerForge](https://github.com/Anurag915/CareerForge) | [🌐 Live Demo](https://careerforgeresume.vercel.app/)
 CareerForge is a production-grade, AI-powered resume analysis and recruitment intelligence platform designed to bridge the gap between candidates and hiring managers. It leverages Local LLMs, RAG (Retrieval-Augmented Generation), and a deterministic ATS scoring engine to deliver professional-grade resume optimization, comparison, and insights through a secure and scalable SaaS architecture.
 
+## Features
 **📊 Resume Intelligence Analysis**: Deep analysis of resumes against job descriptions to identify strengths, gaps, and optimization opportunities.
-
 **🧪 Resume A/B Testing**: Upload multiple resume versions and identify the best-performing one for a target role.
-
 **🤖 AI Career Chat (RAG-based)**: Interactive chat system powered by FAISS and local LLMs to answer contextual queries about resume performance.
-
 **📈 Candidate Comparison Dashboard**: Side-by-side comparison of candidates against a single job description for efficient hiring decisions.
-
 **⚡ Batch Resume Processing**: Upload and evaluate multiple resumes instantly without cluttering the database.
-
 **🏆 Smart Shortlisting**: Deterministic ranking system to filter and identify Top N candidates based on technical match.
-
 **💼 Recruitment Intelligence**: Batch resume processing, candidate comparison, and smart shortlisting for efficient hiring decisions.  
 
-**Tech Stack**
-
+## Tech Stack
 **Frontend**: React.js, Tailwind CSS, Framer Motion, Lucide-React  
 **Backend**: Python, Flask (REST API)  
 **Database**: SQLite  
@@ -103,7 +97,7 @@ CareerForge is a production-grade, AI-powered resume analysis and recruitment in
 ### 📌 [ByteTalk](https://github.com/Anurag915/ByteTalk) | [🌐 Live Demo](https://byte-talk-frontend.vercel.app/login)
 ByteTalk is a sleek, modern, and AI-powered real-time messaging platform that enables users to connect, collaborate, and communicate seamlessly. It combines lightning-fast messaging with intelligent AI features to deliver a next-generation chat experience through a beautifully responsive UI.
 
-Features
+## Features
 
 **🔐 User Authentication**: Secure login, registration, and session management using JWT-based authentication.
 
@@ -129,7 +123,7 @@ Features
 
 **📱 Responsive UI**: Fully responsive design ensuring a smooth experience across desktop, tablet, and mobile devices.
 
-**Tech Stack**
+## Tech Stack
 
 **Frontend**: React.js, Tailwind CSS
 **Backend**: Node.js, Express.js

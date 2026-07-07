@@ -50,7 +50,7 @@ An enterprise-grade AI Agriculture Decision Support System designed to empower f
 - **Production Forecast**: Forecasts crop yields over multi-year periods based on cultivated area, with comprehensive area charts and growth metrics.
 - **Analytics Dashboard**: A centralized business intelligence dashboard aggregating insights, top-performing crops, revenue comparisons, risk distributions, and model confidence metrics.
 - **Data Export**: Seamless CSV export functionality for offline data analysis.
-- 
+
 ## Tech Stack
 ### Frontend
 - **Framework**: React 19, Vite

@@ -34,7 +34,7 @@ Machine Learning, Deep Learning, Scikit-learn, RAG, FAISS, Sentence Transformers
 
 ## 🚀 Projects
 
-### 📌 [AI Agriculture Decision Support System](https://github.com/Anurag915/AI-Agriculture-Decision-Support-System) | [🌐 Live Demo](https://ai-agriculture-decision-support-sys.vercel.app/)
+### 📌 [FarmVision AI](https://github.com/Anurag915/AI-Agriculture-Decision-Support-System) | [🌐 Live Demo](https://ai-agriculture-decision-support-sys.vercel.app/)
 
 An enterprise-grade AI Agriculture Decision Support System designed to empower farmers and stakeholders with actionable, data-driven insights. Utilizing advanced machine learning models, the system offers precise crop recommendations, future price forecasting, and production volume predictions tailored to specific regions, seasons, and crop types. The platform features a premium, responsive UI for business intelligence and analytics.
 

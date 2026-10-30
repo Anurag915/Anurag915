@@ -132,6 +132,7 @@ ByteTalk is a sleek, modern, and AI-powered real-time messaging platform that en
 ---
 
 ## 🔗 Profiles
+- Portfolio: https://anurag-prajapati-portfolio.vercel.app/
 - LeetCode: https://leetcode.com/u/anurag1cr/  
 - GeeksforGeeks: https://www.geeksforgeeks.org/user/prajapatiaa8js/  
 - LinkedIn: https://www.linkedin.com/in/anurag-prajapati-026918268/  

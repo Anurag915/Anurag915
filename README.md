@@ -1,13 +1,10 @@
 <img src="github_banner.png" alt="GitHub Banner" width="100%" />
 
-
-# Hi there! 👋 I'm Anurag Prajapati 🚀  
+# Hi there! 👋 I'm Anurag Prajapati 🚀
 
 💻 **Software Developer** | MERN & Java Full Stack  
 ⚡ **Passionate about Problem-Solving & DSA** (LeetCode addict 😆)  
-📚 Always learning & building cool projects!  
-
-
+📚 Always learning & building cool projects!
 
 ###
 
@@ -40,29 +37,33 @@
 
 ###
 
-
 ## 🙋‍♂️ About Me
+
 - 🎓 B.Tech in Computer Science & Engineering at IIITDM Kurnool (2022–2026)
-- 💡 Enjoy building **scalable web applications** and solving real-world problems with technology.  
-- 🏆 Active on **LeetCode** and **GeeksforGeeks**, continuously improving my problem-solving skills.  
-- 🎯 Goal: Become a **skilled software engineer** capable of delivering end-to-end solutions.  
-- ⚡ Fun fact: I love debugging more than writing new code — because that’s where the real magic happens!  
+- 💡 Enjoy building **scalable web applications** and solving real-world problems with technology.
+- 🏆 Active on **LeetCode** and **GeeksforGeeks**, continuously improving my problem-solving skills.
+- 🎯 Goal: Become a **skilled software engineer** capable of delivering end-to-end solutions.
+- ⚡ Fun fact: I love debugging more than writing new code — because that’s where the real magic happens!
+
 ---
 
 ###
+
 ## 🛠️ Technologies & Tools
+
 - **Languages**: Java, JavaScript, TypeScript, Python, C++, C, SQL
 - **Frontend**: React.js, Next.js, HTML5, CSS3, Tailwind CSS, ES6, Responsive Design
 - **Backend**: Node.js, Express.js, FastAPI, Spring Boot, RESTful APIs, Microservices
 - **Databases**: MongoDB, PostgreSQL, MySQL, Oracle
 - **Cloud & DevOps**: Docker, CI/CD, Linux, AWS Basics
 - **Tools & Platforms**: Git, GitHub, Postman, Supabase, Clerk Auth, DBeaver
-###
 
+###
 
 ## 🚀 Projects
 
 ### 📌 [ByteTalk](https://github.com/Anurag915/ByteTalk) | [🌐 Live Demo](https://byte-talk-frontend.vercel.app/login)
+
 ByteTalk is a sleek, modern, and AI-powered real-time messaging platform that enables users to connect, collaborate, and communicate seamlessly. It combines lightning-fast messaging with intelligent AI features to deliver a next-generation chat experience through a beautifully responsive UI.
 
 Features
@@ -95,30 +96,38 @@ Features
 **AI Integration**: Gemini API (LLM)
 
 ### 📌 [HireMitra](https://github.com/Anurag915/HireMitra) | [🌐 Live Demo](https://hire-mitra3-0.vercel.app/)
+
 A job application and hiring management platform for recruiters and applicants.  
 **Tech Stack:** React.js, Supabase, Clerk, Tailwind CSS  
-**Features:**  
-- Job posting & application management  
-- Secure login/signup using Clerk authentication  
-- Real-time updates using Supabase  
-- Responsive design for mobile & desktop  
+**Features:**
+
+- Job posting & application management
+- Secure login/signup using Clerk authentication
+- Real-time updates using Supabase
+- Responsive design for mobile & desktop
 
 ---
 
 ### 📌 [Sahyogini Management System](https://github.com/Anurag915/Sahyogini-Volunteer-Management-System) | [🌐 Live Demo](https://sahyogini-volunteer-management-system.vercel.app/)
+
 A management system for organizing, tracking, and managing data for Sahyogini programs.  
 **Tech Stack:** React.js, Node.js, Express.js, Supabase, Tailwind CSS  
-**Features:**  
-- Centralized data storage & retrieval  
-- CRUD operations for managing records  
-- Role-based access for admin and users  
-- Data visualization for reports  
+**Features:**
+
+- Centralized data storage & retrieval
+- CRUD operations for managing records
+- Role-based access for admin and users
+- Data visualization for reports
 
 ---
 
 <div align="left">
 
- 
+  <a href="https://anurag-prajapati-portfolio.vercel.app/" target="_blank">
+    <img src="Anurag915\Portfolio.png"
+     height="35" alt="Portfolio"  />
+  </a>
+
   <a href="https://leetcode.com/u/anurag1cr/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge"
      height="35" alt="leetcode logo"  />
@@ -132,9 +141,10 @@ A management system for organizing, tracking, and managing data for Sahyogini pr
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   
-</div> 
+</div>
 
 ## 📫 Get in Touch
+
 - **Email:** anuragprajapati02005@gmail.com
 - **LinkedIn:** [Anurag915](https://www.linkedin.com/in/anurag-prajapati-026918268)
 
